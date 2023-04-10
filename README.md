@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7588A&height=150&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7588A&height=70&section=header" />
 
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7588A&width=435&height=44&lines=Hi, + people + - + hail, hail, friends!" alt="Typing SVG" /></a>
@@ -56,4 +56,4 @@ If you like a project:
  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7588A&height=150&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7588A&height=70&section=header" />
