@@ -13,8 +13,8 @@ If you like a project:
 
 <div align="center">
   <a href="https://github.com/luizfernandoin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfernandoin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=d90429&icon_color=d90429&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandoin&layout=compact&langs_count=7&theme=dracula&title_color=d90429&text_color=d90429&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfernandoin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=d90429&icon_color=d90429&text_color=c9d1d9&bg_color=0d1117&border_color=d90429"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandoin&layout=compact&langs_count=7&theme=dracula&title_color=d90429&text_color=d90429&bg_color=0d1117&border_color=d90429"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Luiz-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
