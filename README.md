@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7588A&height=150&section=header" />
+
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7588A&width=435&height=44&lines=Hi, + people + - + hail, hail, friends!" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1100&color=F73F8B&width=800&lines=I'm Luiz Fernando, enthusiast for the world of codes and developer." alt="Typing SVG" /></a>
@@ -53,3 +55,5 @@ If you like a project:
   ![Snake animation](https://github.com/luizfernandoin/luizfernandoin/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7588A&height=150&section=header" />
