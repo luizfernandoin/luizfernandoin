@@ -1,12 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a0ca3&height=70&section=header" />
 
-<div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7588A&width=435&height=44&lines=Hi, + people + - + hail, hail, friends!" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1100&color=F73F8B&width=800&lines=I'm Luiz Fernando, enthusiast for the world of codes and developer." alt="Typing SVG" /></a>
-</div>
-
-##
-
 ## Hi, people - Hail, hail, friends. I'm Luiz Fernando, enthusiast for the world of codes and developer!
 <p><i>Student of Systems Analysis and Development (IFPB, 2023), Computer Technician (IFPB, 2022), Cajazeiras campus. I am currently 18 years old and I live in the state of Paraíba - Brazil.
 
@@ -20,8 +13,8 @@ If you like a project:
 
 <div align="center">
   <a href="https://github.com/luizfernandoin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfernandoin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandoin&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfernandoin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandoin&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Luiz-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
