@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d90429&height=70&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03045e&height=70&section=header" />
 
 ## Hi, people - Hail, hail, friends. I'm Luiz Fernando, enthusiast for the world of codes and developer!
 <p><i>Student of Systems Analysis and Development (IFPB, 2023), Computer Technician (IFPB, 2022), Cajazeiras campus. I am currently 18 years old and I live in the state of Paraíba - Brazil.
@@ -49,4 +49,4 @@ If you like a project:
  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d90429&height=70&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03045e&height=70&section=header" />
