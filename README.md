@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03045e&height=70&section=header" />
 
 ## Hello everyone - Hail, hail, friends. I'm Luiz Fernando, enthusiast for the world of codes and developer!
-<p><i>Student of Systems Analysis and Development (IFPB, 2023) - 2nd Period, Computer Technician (IFPB, 2022), Cajazeiras campus. I am currently 19 years old and I live in the state of Paraíba - Brazil.
+<p><i>Student of Systems Analysis and Development (IFPB, 2023) - 3nd Period, Computer Technician (IFPB, 2022), Cajazeiras campus. I am currently 19 years old and I live in the state of Paraíba - Brazil.
 
 During my contact with programming, I learned / am studying several technologies, languages and frameworks, such as: Python, JavaScript, C, HTML, CSS, SQL, React Native, Django and Flask. Therefore, I developed several personal and academic projects with the aim of improving my knowledge in this universe of codes and solving problems that hinder the development of humanity.
 
