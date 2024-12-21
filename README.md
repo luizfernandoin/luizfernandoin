@@ -17,17 +17,21 @@ If you like a project:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernandoin&layout=compact&langs_count=7&theme=dracula&title_color=d90429&text_color=c9d1d9&bg_color=0d1117&border_color=d90429"/>
 </div>
 <div style="display: inline_block" align="center"><br>
+    <img align="center" alt="Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Luiz-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luiz_Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+    <img align="center" alt="Luiz_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luiz_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+    <img align="center" alt="Express" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <div style="display: inline_block" align="center"><br>
+    <img align="center" alt="Docker" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Luiz-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Luiz-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Luiz-Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
